@@ -11,9 +11,9 @@ Easy Examples which will Help to Understand all the Important Methods.
 
 **First Day of the Week can be Changed : calendar.setfirstweekday(calendar.SUNDAY)**
 
-**Week Indexing Starts from 0 : ( Monday : 0 ) | ( Tuesday : 1 ) | ( Wednesday : 2 ) | ( Thursday : 3 ) | ( Friday : 4 ) | ( Saturday : 5 ) | ( Sunday : 6 )**
+**Week Indexing Starts from 0 ( Monday : 0 ) | ( Tuesday : 1 ) | ( Wednesday : 2 ) | ( Thursday : 3 ) | ( Friday : 4 ) | ( Saturday : 5 ) | ( Sunday : 6 )*
 
-**Month Indexing Starts from 1 : ( January : 1 ) | ( February : 2 ) | ( March : 3 ) ... ( December : 12 )**
+**Month Indexing Starts from 1 ( January : 1 ) | ( February : 2 ) | ( March : 3 ) ... ( December : 12 )**
 
 ## Date Time
 
